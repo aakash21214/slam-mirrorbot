@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "argon-computer-337903",
+  "private_key_id": "6d4ed18fc0b926132b1116ee8d6051ce25415640",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5mCpZansU3nU4\nPSNl28CXO0w6Lvni4TxyxH27yxY7BdCdAvOX+YfDOYtdeShOX23F8NmsG0PWYE//\njtqTVXYQpGCz5KPZnUreupVyAuvvEVHOMqEPVUo+fLXJ2OXN0K9zENFduC0+p33m\nAMQYE20fH0e8LfrLATwq/nvn4ZeAUavdy9jEzBoHZPRnN4tVa8NxeOKl+//F1g8N\nvq9VHwdLxG/97i8H0NILos+C4kfNk9s9XYa4Xyyix5DVqRWbz0x7vVkxdcnwiD/a\nH5Di1bMaGnPSmFbzaRMqB0sGcS7KQ7VNyiIwSGMFwV+AKafr+HrWnKXiII9oZpnk\nkurwt94JAgMBAAECggEAG3sUijjiEKz/3lvvKd3oHnyBRPw/tAB12uiNVYk0uXia\n8yTEvPQNzjJvGGAgP7qRnoWTNZCz8sJAFi8o3jgBS2WLjBeGy2om8+PczQzxsmx2\nGHoWrxaJ78a3hDPBk0AbOoZ6+c2TpXtXgP8MCiSWO8196bdFM1nzdspHvoYA0NcG\nN2OGABuD9hFGgJRntH+5ZoQGZNOnRTImok5kBw7qcLqXIJIyDiXIOfq72nx4D2AS\nYnTdqMU0DX7QhyE5LIxn8efhHvQG/l45wqlKYPviQSkZmxBoA3r5QdkHB/MqpO+I\nDqZksIMLZQ4eRpo02Qn76frPdMLCqDMoUhcqKxb/oQKBgQDt6OI1ZMvcU5GPLWly\n0446jbYCk0ODYVO8tqF1iZLBIiFu+kv1jenriHubr+Z5hGiaIGi3AbGWl74gkOzJ\nHvUiamzCouFCFpQPUj7xLyM8zM9lRdfy178xOVCW+YenehJwaWb83yOzKLBPyvuD\nLzgmrmPof9Mio9xekGBJrEOjUwKBgQDHtOtlOz0gUz04b1WUlD3T25krZPmXYlxx\ndSlMpUVSn7C5ztZIqZpVUXqfiA2teNyyzP1ADY3NRCeroH6qQFh2gtzawYSLlkf4\nynzgbvEOwX3Yn3tMKD9j0WsgFKm5VCUbkyzRj2jAiJuhoLIq+6ySGbFruFnkWnDk\nczw5y35JswKBgQCi3uXN691sToG95Tbld1NNXqqWBL8ZeE3dSaIrVy1yrqz4zr2l\ns6vKpTsKEFfWJQF/UmSdtLkhAW0V2mFgJqNnFjiy3tMbbV2bR5DziHO1MflhuXjn\nNTAcwMIdOWLXEskA0AfDYfeMtXROjAW3f2IPiR+4kZm3gzpgOrLQfPApJQKBgBPs\nPpeIw15YL4FTygvahhh+jddAaY3qqCJBd+9HhZTqjWzb75CsKtNcH4mOvx6RMiM8\nQ/+B2qWhqPt8NWayqKCaCYJhT+HFCkUNnkudhbrdHrrfniNI2JoSqEc5CH2OoW0Q\nz6XQUrjyZ+RF7cBP/zVMDuEaMQ2Q4DZKMLXrURv1AoGAJJdGXcf/OgK1gVUEf2Sz\nPua2BgGm0VOIqyG8/WpfylUVHNc6pBoLFRFRKMWlMb5e/BjVQIPhL3PdwnfWl1Ui\nQKnizoj/FiVCUaFJ5bTf7o+rYIobgSfl5BKEsPiF7nQ0/WiW7YfBTi8GSHgAN8v3\nYFHUozD+Qid3YaG6Q93ePrk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-mbc3pim7flb2ug1hso-s1-brwl@argon-computer-337903.iam.gserviceaccount.com",
+  "client_id": "110028509233666820046",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-mbc3pim7flb2ug1hso-s1-brwl%40argon-computer-337903.iam.gserviceaccount.com"
+}
